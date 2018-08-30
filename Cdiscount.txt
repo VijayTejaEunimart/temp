@@ -1,0 +1,6 @@
+##############Token_Generation:###############
+
+1)#######pre_production Url: https://sts.preprod-cdiscount.com/users/httpIssue.svc/?realm=https://wsvc.preprod-cdiscount.com/MarketplaceAPIService.svc
+2)#######Production Url: https://sts.cdiscount.com/users/httpIssue.svc/?realm=https://wsvc.cdiscount.com/MarketplaceAPIService.svc
+
+##########Minimum image size 50*500#######
